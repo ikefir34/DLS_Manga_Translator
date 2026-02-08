@@ -61,3 +61,5 @@
       Ссылка на папку с видеодемонстрацией и изображениями, использующимися в ней, а так же с исходным датасетом:
       
 https://drive.google.com/drive/folders/198OVEXLxY9hyhC0bdALxtR66BtBHp_Oj?usp=sharing
+
+P. S. сори за фиговую структуру кода...
